@@ -5,7 +5,7 @@
 	xmlns:websocket="http://www.springframework.org/schema/websocket">
 	<display-name>omProtal</display-name>
 	<welcome-file-list>
-		<welcome-file>hello.html</welcome-file>
+		<welcome-file>index</welcome-file>
 	</welcome-file-list>
 
 	<!-- Spring的log4j监听器 -->
